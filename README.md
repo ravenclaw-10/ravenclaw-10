@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer and Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenclaw-10&label=Profile%20views&color=0e75b6&style=flat" alt="ravenclaw-10" /> </p>
 
