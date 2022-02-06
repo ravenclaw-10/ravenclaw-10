@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anshuman Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenclaw-10&label=Profile%20views&color=0e75b6&style=flat" alt="ravenclaw-10" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravenclaw-10" alt="ravenclaw-10" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I’m looking for help with **Open source contribution**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ravenclaw-10?tab=repositories](https://github.com/ravenclaw-10?tab=repositories)
+
 - 📫 How to reach me **anshumansri12@gmail.com**
+
+- ⚡ Fun fact **Sometimes I prefer to be silent than to engage in a nonsense conversation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +35,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravenclaw-10&show_icons=true&locale=en&layout=compact" alt="ravenclaw-10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravenclaw-10&" alt="ravenclaw-10" /></p>
-
