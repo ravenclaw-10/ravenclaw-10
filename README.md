@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshumansri12@gmail.com**
 
-- ⚡ Fun fact **Sometimes I prefer to be silent than to engage in a nonsense conversation.**
+- ⚡ Fun fact **It's not even funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
