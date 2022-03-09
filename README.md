@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshumansri12@gmail.com**
 
-- ⚡ Fun fact **It's not even funny.**
+- ⚡ Fun fact **Programmer with ruined academics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
