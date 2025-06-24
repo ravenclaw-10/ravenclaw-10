@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anshumansri12@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/brbqywwtkkrt#633c02](https://www.overleaf.com/read/brbqywwtkkrt#633c02)
+- 📄 Know about my experiences; Resume: [https://www.overleaf.com/read/brbqywwtkkrt#633c02](https://www.overleaf.com/read/brbqywwtkkrt#633c02)
 
 - ⚡ Fun fact **Coding is relaxing**
 
