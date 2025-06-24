@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **anshumansri12@gmail.com**
 
-- 📄 Know about my experiences; Resume: [https://www.overleaf.com/read/brbqywwtkkrt#633c02](https://www.overleaf.com/read/brbqywwtkkrt#633c02)
-
 - ⚡ Fun fact **Coding is relaxing**
 
 <h3 align="left">Connect with me:</h3>
